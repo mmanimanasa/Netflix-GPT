@@ -4,6 +4,10 @@ This is a movie recommendation platform, inspired by Netflix. Application seamle
 
 Built with React, Redux, and Tailwind CSS, this platform ensures a responsive and intuitive user experience across all devices.TMDb API is utilized to provide extensive movie data, ensuring recommendations are always current and relevant.
 
+# Live Site
+
+https://netflix-gpt-6lm2.onrender.com
+
 # Features
 
 - Home Page (is user !authorised)
